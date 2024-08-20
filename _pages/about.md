@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Summary
-======
 Dr. Yao Cheng is...
 
 Affliations
