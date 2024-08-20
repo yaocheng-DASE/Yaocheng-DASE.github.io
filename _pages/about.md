@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yao Cheng is...
+Dr. Yao Cheng is an Assistant Professor in the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. With a background in Industrial Engineering from Rutgers University, her research primarily focuses on the reliability and resilience of various systems, including complex networked systems, new energy systems like electric vehicle charging stations and solar panel systems, and transportation systems. Dr. Cheng utilizes a range of tools in her research, such as deterministic models from operations research, stochastic models from probability and statistics, and data analytics tools. Her work has been recognized and published in leading journals within the reliability engineering and industrial engineering fields, including IISE Transactions, Transportation Science, Reliability Engineering and System Safety, IEEE Transactions on Industrial Informatics, IEEE Transactions on Reliability, and the International Journal of Production Research. Additionally, Dr. Cheng's research has received funding from various sources, including the Research Grant Council, University Research Council, and industry partners.
 
 Affliations
 ======
