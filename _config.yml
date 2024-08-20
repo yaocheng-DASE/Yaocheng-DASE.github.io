@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yao Cheng"
+title                    : "Yao Cheng/Personal Homepage"
 title_separator          : "-"
 name                     : "Yao Cheng"
 description              : &description "personal description"
-url                      : "https://yaocheng-imse.github.io/"
-baseurl                  : #"https://yaocheng-imse.github.io/"
-repository               : #"https://yaocheng-imse.github.io/"
+url                      : "https://yaocheng-imse.github.io"
+baseurl                  : #"https://yaocheng-imse.github.io"
+repository               : #"https://yaocheng-imse.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
