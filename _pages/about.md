@@ -13,6 +13,13 @@ Affliations
 ======
 Assistant Professor, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong [(HKU-IMSE website)](https://www.imse.hku.hk/people/y-cheng).
 
+Grants
+======
+* PI, “Operational-Use Reliability Prediction and Optimal Inspection and Maintenance Plan Design for Heterogeneous Charging Piles for Electric Vehicles”, $627,878, RGC ECS, 2021.01-2025.02
+* PI, “A Performance-based Reliability Modelling and Optimization Framework for Photovoltaic Fleets”, $855,055, RGC GRF, 2023.01-2026.12
+* PI, “A Service Reliability Modelling and Profit Optimization Framework for Battery Swapping Stations”, $892,694, RGC GRF, 2024.01-2027.12
+* Deputy Project Coordinator, “nD Blockchain for ESG Reporting”, $8,088,045, Innovation and Technology Support Programme (Platform Project)
+
 Research Interests
 ======
 
