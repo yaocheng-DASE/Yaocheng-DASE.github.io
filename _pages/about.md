@@ -22,16 +22,9 @@ Grants
 
 Research Interests
 ======
-
-Research students
-======
-* Anchi Li (from )
-* Ge li (from)
-* Ruixian Li (from)
-* Sangqi Zhao (from)
-* Yian Wei (from Beihang University, 2020-)
-* Zhiyi Huang (from Northwestern Polytechnical University, 2019-2023)
-* Yijia Wang (from)
+* Reliability modeling and reliability testing design
+* Resilience modeling and resilient system design
+* Maintenance Policy Design
 
 Selected Publications
 ======
