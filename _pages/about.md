@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Summary - Yao Cheng - Homepage"
+title: "Summary"
 author_profile: true
 redirect_from: 
   - /about/
