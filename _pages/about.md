@@ -17,6 +17,8 @@ Research Interests
 
 Experience
 ======
-* 2013.09-2018.01,   Ph.D. ,                  Rutgers University
-* 2018.03-2018.06,   Assistant Professor,     Beihang University
-* 2018.08-now,       Assistant Professor,     The University of Hong Kong
+<table>
+<tr><td>2013.09-2018.01</td><td>Ph.D., Rutgers University</td></tr>
+<tr><td>2018.03-2018.06</td><td>Assistant Professor, Beihang University</td></tr>
+<tr><td>2018.08-now</td><td>Assistant Professor, The University of Hong Kong</td></tr>
+</table>
