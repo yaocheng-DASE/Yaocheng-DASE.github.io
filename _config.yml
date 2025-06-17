@@ -12,7 +12,7 @@ title                    : "Yao Cheng/Personal Homepage"
 title_separator          : "-"
 name                     : "Yao Cheng"
 description              : &description "personal description"
-url                      : "https://yaocheng-dase.github.io"
+url                      : "https://yaocheng-imse.github.io"
 baseurl                  : #"https://yaocheng-dase.github.io"
 repository               : #"https://yaocheng-dase.github.io"
 
