@@ -17,10 +17,9 @@ Dr. Cheng is also passionate about teaching. Her teaching innovations have led t
 
 Research Interests
 ======
-* Reliability modeling and reliability testing design
-* Resilience modeling and resilient system design
-* Maintenance policy design
-
+* Reliability Modelling and Testing
+* Maintenance Policy Design
+* Resilience Modelling and Optimization
 Experience
 ======
 * 2018.08-now, Assistant Professor, The University of Hong Kong
